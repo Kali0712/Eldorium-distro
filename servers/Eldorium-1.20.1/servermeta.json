@@ -1,29 +1,29 @@
 {
-  "$schema": "file:///D:/helios/Eldorium/distro/schemas/ServerMetaSchema.schema.json",
-  "meta": {
-    "version": "1.0.0",
-    "name": "엘도리움 서버",
-    "description": "Eldorium Running Minecraft 1.20.1 (Forge v47.3.22)",
-    "icon": "https://raw.githubusercontent.com/Kali0712/Eldorium-distro/main/serverIMG.png",
-    "address": "220.123.237.60",
-    "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-    },
-    "mainServer": true,
-    "autoconnect": true
-  },
-  "forge": {
-    "version": "47.3.22"
-  },
-  "untrackedFiles": [
-	{
-		"appliesTo": ["files"],
-		"patterns": [
-		  "options.txt",
-		  "servers.dat"
-		]
-	}
-  ]
-}
+	"$schema": "file:///D:/helios/Eldorium/distro/schemas/ServerMetaSchema.schema.json",
+	"meta": {
+	  "version": "1.0.0",
+	  "name": "엘도리움 서버",
+	  "description": "Eldorium Running Minecraft 1.20.1 (Forge v47.3.22)",
+	  "icon": "https://raw.githubusercontent.com/Kali0712/Eldorium-distro/main/serverIMG.png",
+	  "address": "220.123.237.60",
+	  "discord": {
+		"shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+		"largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+		"largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+	  },
+	  "mainServer": true,
+	  "autoconnect": true
+	},
+	"forge": {
+	  "version": "47.3.22"
+	},
+	"untrackedFiles": [
+	  {
+		  "appliesTo": ["files"],
+		  "patterns": [
+			"options.txt",
+			"servers.dat"
+		  ]
+	  }
+	]
+  }
