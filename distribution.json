@@ -12,7 +12,7 @@
       "name": "엘도리움 서버",
       "description": "Eldorium Running Minecraft 1.20.1 (Forge v47.3.22)",
       "icon": "https://raw.githubusercontent.com/Kali0712/Eldorium-distro/main/serverIMG.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "220.123.237.60",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -1475,7 +1475,6 @@
           "artifact": {
             "size": 1418,
             "url": "https://raw.githubusercontent.com/Kali0712/Eldorium-distro/main/servers/Eldorium-1.20.1/files/optionsof.txt",
-            "MD5": "9e85b1aef815ade7ea83703c59c4c17f",
             "path": "optionsof.txt"
           }
         },
@@ -1837,7 +1836,6 @@
           "artifact": {
             "size": 235,
             "url": "https://raw.githubusercontent.com/Kali0712/Eldorium-distro/main/servers/Eldorium-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt",
-            "MD5": "8b31f21aa284c52d25dfeb7ea0db5bae",
             "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
           }
         },
@@ -1859,7 +1857,6 @@
           "artifact": {
             "size": 235,
             "url": "https://raw.githubusercontent.com/Kali0712/Eldorium-distro/main/servers/Eldorium-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt",
-            "MD5": "c9ede2d6a6f633c8f2f7243e033be52f",
             "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
           }
         },
